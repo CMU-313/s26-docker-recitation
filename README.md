@@ -1,4 +1,4 @@
-# f25-docker-recitation
+# s26-docker-recitation
 
 ## 1. Running the app locally
 In the root directory, run:
